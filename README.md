@@ -43,6 +43,3 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-%2307405e.svg?style=for-the-badge&logo=PostgresSQL&logoColor=white)
 ## Widgets
 [![roadmap.sh](https://roadmap.sh/card/wide/68cbe84b1a0296edef1dfa82?variant=dark)](https://roadmap.sh)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
-</p>
