@@ -4,6 +4,6 @@
 
 Lates YouTube Videos
 
-Languages and Tools
-
-Follow Me
+### Language and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-green)
+#### Follow Me
