@@ -51,7 +51,8 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?window18=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?window18=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?window18=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 ---
