@@ -51,8 +51,7 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LQSh9z1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQSh9z1&layout=compact&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
