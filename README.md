@@ -45,22 +45,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" class="tech"/></a>
 </div>
 
-<style>
-.tech {
-  transition: transform 0.3s ease, filter 0.3s ease;
-  margin: 5px;
-  display: inline-block;
-  animation: pulse 2s infinite;
-}
-.tech:hover {
-  transform: translateY(-8px) scale(1.1);
-  filter: brightness(1.2);
-}
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-</style>
 
 ---
 
@@ -76,6 +60,6 @@
 ### 🔗 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/@dasleW"><img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio-333?style=for-the-badge&logo=vercel"/></a>
 </p>
