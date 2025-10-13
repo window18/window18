@@ -1,45 +1,60 @@
-# Привет, меня зовут Степан
-## Стеки
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
-![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgresSQL-%2307405e.svg?style=for-the-badge&logo=PostgresSQL&logoColor=white)
-## Widgets
-[![roadmap.sh](https://roadmap.sh/card/wide/68cbe84b1a0296edef1dfa82?variant=dark)](https://roadmap.sh)
+<h1 align="center">Привет 👋, я LQS</h1>
+<h3 align="center">💻 Vue.js & Python Developer | Frontend & Backend | UI/UX Enthusiast</h3>
+
+---
+
+### 🚀 Обо мне
+- 🌱 Разрабатываю **Frontend на Vue.js** и **Backend на Python (Django, FastAPI, PyQt5, Pygame)**  
+- 🎨 Работаю с **UI/UX, Figma, Photoshop**  
+- ⚡ Верстка и сборка: **Tailwind CSS, Bootstrap, Gulp, Webpack**  
+- 🐧 Работаю в **Linux**: Arch, Debian, Fedora, Ubuntu, Mint, CachаOS  
+- 💻 Также использую **Windows** для разработки и тестирования  
+- 🛠️ Работа с командной строкой (**CMD/Terminal**) и базами данных: PostgreSQL, MongoDB  
+- 📚 Организация работы: **Notion, Obsidian**  
+- 🌐 Английский: **B1-B2**
+
+---
+
+### 🛠️ Технологии
+
+<div align="center">
+  
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
+![PyQt5](https://img.shields.io/badge/-PyQt5-333?style=for-the-badge)
+![Pygame](https://img.shields.io/badge/-Pygame-333?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-333?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap)
+![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=adobephotoshop)
+![Notion](https://img.shields.io/badge/-Notion-333?style=for-the-badge&logo=notion)
+![Obsidian](https://img.shields.io/badge/-Obsidian-333?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LQSh9z1&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQSh9z1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🔗 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram)](https://t.me/твой_ник)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=for-the-badge&logo=vercel)](#)
