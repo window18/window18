@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Обо мне
-- 🌱 Разрабатываю **Frontend на Vue.js** и **Backend на Python (Django, FastAPI, PyQt5, Pygame)**  
+- 🌱 Разрабатываю **Frontend на Next.js Vue.js** и **Backend на Python (Django, FastAPI, PyQt5, Pygame)**  
 - 🎨 Работаю с **UI/UX, Figma, Photoshop**  
 - ⚡ Верстка и сборка: **Tailwind CSS, Bootstrap, Sass, Less, Gulp, Webpack**  
 - 🐧 Работаю в **Linux**: Arch, Debian, Fedora, Ubuntu, Mint, CachаOS  
