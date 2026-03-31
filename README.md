@@ -43,7 +43,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Notion-333?style=for-the-badge&logo=notion" class="tech"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Obsidian-333?style=for-the-badge" class="tech"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" class="tech"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js" class="tech"/></a>
 </div>
 
 
