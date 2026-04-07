@@ -16,6 +16,7 @@
 - 🛠️ Командная строка (**CMD/Terminal**) и базы данных: PostgreSQL, MongoDB  
 - 📚 Организация работы: **Notion, Obsidian**  
 - 🌐 Английский: **B1-B2**
+- Next.js: **ReactQueary, NextDynamic, Memo, ShadCN**
 
 ---
 
